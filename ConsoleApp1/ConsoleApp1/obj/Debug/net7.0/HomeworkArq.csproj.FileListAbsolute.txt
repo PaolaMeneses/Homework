@@ -1,0 +1,14 @@
+C:\Users\paola\source\repos\practica1\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\HomeworkArq.exe
+C:\Users\paola\source\repos\practica1\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\HomeworkArq.deps.json
+C:\Users\paola\source\repos\practica1\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\HomeworkArq.runtimeconfig.json
+C:\Users\paola\source\repos\practica1\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\HomeworkArq.dll
+C:\Users\paola\source\repos\practica1\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\HomeworkArq.pdb
+C:\Users\paola\source\repos\practica1\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\HomeworkArq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paola\source\repos\practica1\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\HomeworkArq.AssemblyInfoInputs.cache
+C:\Users\paola\source\repos\practica1\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\HomeworkArq.AssemblyInfo.cs
+C:\Users\paola\source\repos\practica1\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\HomeworkArq.csproj.CoreCompileInputs.cache
+C:\Users\paola\source\repos\practica1\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\HomeworkArq.dll
+C:\Users\paola\source\repos\practica1\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\refint\HomeworkArq.dll
+C:\Users\paola\source\repos\practica1\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\HomeworkArq.pdb
+C:\Users\paola\source\repos\practica1\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\HomeworkArq.genruntimeconfig.cache
+C:\Users\paola\source\repos\practica1\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ref\HomeworkArq.dll
